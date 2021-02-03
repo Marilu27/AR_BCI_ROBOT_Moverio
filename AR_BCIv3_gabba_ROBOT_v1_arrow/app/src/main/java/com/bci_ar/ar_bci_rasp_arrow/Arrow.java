@@ -9,6 +9,7 @@ import javax.microedition.khronos.opengles.GL10;
 
 public class Arrow {
 
+    //Maria è stata qui
 
     // ARROW
     private float vertices[] = {
