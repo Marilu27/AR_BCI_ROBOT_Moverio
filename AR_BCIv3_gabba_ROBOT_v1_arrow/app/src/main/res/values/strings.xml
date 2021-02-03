@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AR-BCI-ARROW</string>
+    <string name="app_title">\nAR-BCI-gabba version 5.1\n</string>
+
+    <string name="connection_status">Connection status:</string>
+    <string name="status">Disconnected</string>
+
+    <string name="question">Sinistra o Destra?</string>
+
+    <string name="choice1">SX</string>
+    <string name="choice2">DX</string>
+
+
+    <string name="CLIENT_CHARACTERISTIC_CONFIG">00002902-0000-1000-8000-00805f9b34fb"</string>
+
+    <!-- Setting String (by Gabba) -->
+    <string name="setting">SETTINGs</string>
+    <string name="color_square1">Square 1 Color</string>
+    <string name="color_square2">Square 2 Color</string>
+    <string name="setting_button">SETTINGs</string>
+    <string name="apply_button">APPLY</string>
+    <string name="shared_preferences">config_file</string>
+    <string name="color_background">Background Color</string>
+    <string name="square_1_x">Square 1 X</string>
+    <string name="square_1_y">Square 1 Y</string>
+    <string name="square_2_x">Square 2 X</string>
+    <string name="square_2_y">Square 2 Y</string>
+    <string name="square_1_z">Square 1 Z (DIM)</string>
+    <string name="square_2_z">Square 2 Z (DIM)</string>
+    <string name="square_1_freq">Square 1 Freq.</string>
+    <string name="square_2_freq">Square 2 Freq.</string>
+    <string name="start_button">START</string>
+
+    <!-- Default squares position -->
+    <string name="X1">-4</string> '<!--' -4.6'-->'
+    <string name="Y1">1.5</string> '<!--' 1.8'-->'
+    <string name="Z1">-4</string> '<!--' -3'-->'
+    <string name="X2">4</string> '<!--' 4.6'-->'
+    <string name="Y2">-1.5</string> '<!--' 1.8'-->'
+    <string name="Z2">-4</string> '<!--' -3'-->'
+    <string name="connect">CONNECT</string>
+
+
+    <string-array name="freqs">
+        <item>7.5</item>
+        <item>10</item>
+        <item>12</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>
